@@ -16,7 +16,6 @@
 
 .product img {
   width: 100%;
-  object-fit: cover;
 }
 
 .product h2 {
@@ -28,33 +27,8 @@
 .product p {
   font-size: 1.6rem;
   margin-bottom: 2rem;
-  line-height: 1.6;
-  text-align: justify;
 }
 
 .product section a {
   margin-top: 2rem;
-}
-
-.text-container {
-  max-width: 100%;
-  padding: 0 1rem;
-}
-
-.product section .text-container p {
-  margin-bottom: 2rem;
-}
-
-.product section a {
-  margin-top: 2rem;
-}
-
-@media (max-width: 768px) {
-  .product {
-    padding: 2rem;
-  }
-
-  .product section {
-    grid-template-columns: 1fr;
-  }
 }
