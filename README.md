@@ -21,7 +21,7 @@ This project was completed by me as part of the course "The Ultimate React Cours
 ### Deployment
 
 This project has been deployed on Vercel and is accessible at the following URL:
-**[WorldWise App on Vercel](https://worldwise-react-app-ten.vercel.app/)**
+**[WorldWise App on Vercel](https://worldwise-react-n6mcsgh3r-karinas-projects-e74ba04a.vercel.app//)**
 
 ## System Requirements:
 
