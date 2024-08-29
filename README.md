@@ -6,8 +6,6 @@ This project was completed by me as part of the course "The Ultimate React Cours
 
 ## Features
 
-## Features
-
 - **Multi-Page Navigation**: WorldWise uses React Router to handle navigation across multiple pages, each corresponding to different URLs. Users can navigate between the homepage, product page, pricing page, and more, with the URL reflecting the current page.
 - **User Authentication**: The app includes a simple, fake login system where users can log in to access the core features of the application. This showcases basic authentication and protected routes in a React app.
 - **City and Country Management**: Users can add cities they’ve visited to a list, with the application automatically associating the correct country. Cities and countries can be viewed in separate sections, with the ability to delete, edit entries, and add detailed notes about their travels.
