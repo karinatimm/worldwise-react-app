@@ -7,7 +7,7 @@ const Pricing = () => {
       <PageNav />
 
       <section>
-        <div className={styles.textContainer}>
+        <div>
           <h2>
             Simple pricing.
             <br />
