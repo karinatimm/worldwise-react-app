@@ -11,7 +11,7 @@ const Product = () => {
           src="img-1.jpg"
           alt="person with dog overlooking mountain with sunset"
         />
-        <div className={styles.textContainer}>
+        <div>
           <h2>About WorldWide.</h2>
           <p>
             The WorldWise App is your personal travel log, designed to help you
