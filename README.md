@@ -48,7 +48,7 @@ Open the terminal or command prompt, navigate to your desired directory, and clo
 
 - Execute the following command to start working with this project locally by opening the localhost reference in the browser:
 
-  **npm run dev**
+**npm run dev**
 
 ### Quality Assurance
 
