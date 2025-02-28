@@ -49,3 +49,8 @@
 .city::-webkit-scrollbar {
   display: none;
 }
+/**/
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}

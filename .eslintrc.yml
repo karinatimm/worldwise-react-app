@@ -1,6 +1,7 @@
 env:
   browser: true
   es2021: true
+  node: true # Make sure 'node' environment is enabled globally
 
 extends:
   - airbnb-base
@@ -63,3 +64,11 @@ rules:
   react/no-unescaped-entities: off
   import/prefer-default-export: off
   react-refresh/only-export-components: 0
+
+overrides:
+  - files:
+      - server.js # Override configuration for the server.js file
+    env:
+      node: true # Enable 'node' environment for this specific file
+    parserOptions:
+      sourceType: module # Use 'module' sourceType for ES Modules
