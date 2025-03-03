@@ -2,7 +2,6 @@ let cities = [];
 
 export default async function handler(req, res) {
   if (req.method === "GET") {
-    // Return cities
     res.status(200).json(cities);
   } else if (req.method === "POST") {
     const newCity = req.body;

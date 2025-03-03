@@ -1,7 +1,7 @@
 import { useEffect, useReducer, useCallback } from "react";
 import CitiesContext from "./CitiesContext";
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://github.com/karinatimm/worldwise-react-app/api";
 
 const initialState = {
   cities: [],
@@ -38,7 +38,6 @@ const reducer = (state, action) => {
         ...state,
         isLoading: false,
         cities: state.cities.filter((city) => city.id !== action.payload),
-        currentCity: {},
       };
 
     case "rejected":
