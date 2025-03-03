@@ -1,7 +1,7 @@
 import { useEffect, useReducer, useCallback } from "react";
 import CitiesContext from "./CitiesContext";
 
-const BASE_URL = "https://github.com/karinatimm/worldwise-react-app/api";
+const BASE_URL = "https://worldwise-react-app-psi.vercel.app/api";
 
 const initialState = {
   cities: [],
