@@ -2,7 +2,6 @@ import jsonServer from "json-server";
 import path from "path";
 import { fileURLToPath } from "url";
 
-// Получаем путь к текущему файлу
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
