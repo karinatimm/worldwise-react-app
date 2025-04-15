@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Horsham",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-04-15T13:09:30.427Z",
+      "notes": "",
+      "position": {
+        "lat": "50.88917404890332",
+        "lng": "-0.32958984375000006"
+      },
+      "id": 1
+    }
+  ]
 }
