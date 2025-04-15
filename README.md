@@ -18,8 +18,8 @@ This project was completed by me as part of the course "The Ultimate React Cours
 
 ### Deployment
 
-This project has been deployed on Vercel and is accessible at the following URL:
-**[WorldWise App on Vercel](https://worldwise-react-n6mcsgh3r-karinas-projects-e74ba04a.vercel.app//)**
+This project has been deployed on Render and is accessible at the following URL:
+**[WorldWise API on Render](https://worldwise-react-app-1.onrender.com/app/cities)**
 
 ## System Requirements:
 
