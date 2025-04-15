@@ -19,7 +19,7 @@ This project was completed by me as part of the course "The Ultimate React Cours
 ### Deployment
 
 This project has been deployed on Render and is accessible at the following URL:
-**[WorldWise API on Render](https://worldwise-react-app-1.onrender.com/app/cities)**
+**[WorldWise API on Render](https://worldwise-react-app-1.onrender.com/)**
 
 ## System Requirements:
 
